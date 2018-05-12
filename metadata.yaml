@@ -1,10 +1,14 @@
 _repo: What-the-Boys-Did-Over-There-By-Themselves_47856
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Fox, Henry L. (Henry Landell)
       gutenberg_agent_id: '44509'
       url: http://www.gutenberg.org/2009/agents/44509
+covers:
+- cover_type: archival
+  image_path: 47856-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47856#What-the-Boys-Did-Over-There-By-Themselves
 gutenberg_issued: '2015-01-03'
 gutenberg_type: Text
 identifiers:
